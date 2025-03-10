@@ -35,7 +35,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     install_requires=[
-        "pydantic==1.8.2",
+        "pydantic==1.10.13",
         "typing-extensions==3.10.0.2",
         "word2number==1.1",
         "timefhuman==0.0.5",
